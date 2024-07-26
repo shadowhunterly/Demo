@@ -1,0 +1,12 @@
+{
+	"name": "Shiba dog",
+	"symbol": "SHG",
+	"image": "https://pbs.twimg.com/profile_images/1811629338141593600/jThfAk3N_400x400.jpg",
+	"description": "Shiba dog cutie",
+	"tags": [],
+	"extensions": {
+		"website": "https://x.com/dog_rates",
+		"twitter": "https://x.com/dog_rates",
+		"telegram": "https://t.me/bananadeployer"
+	}
+}
